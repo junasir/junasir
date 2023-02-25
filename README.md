@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 # Hi,I'm Jun_军! 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=junasir&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **Shanghai**.
 - 🌱 I’m currently learning **Java**.
@@ -40,6 +39,3 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=junasir&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 ## Languages
-<a href="https://github.com/junasir">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junasir&theme=vue" />
-</a>
