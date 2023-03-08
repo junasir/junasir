@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi,I'm Jun_军! 👋
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=junasir&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **Shanghai**.
 - 🌱 I’m currently learning **Java**.
